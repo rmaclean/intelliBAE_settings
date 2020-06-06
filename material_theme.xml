@@ -1,15 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
-    <option name="allowDataCollection" value="true" />
-    <option name="darkTitleBar" value="true" />
+    <option name="compactStatusBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="accentMode" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-6e071a3b:16e665d396e:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
